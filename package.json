@@ -1,0 +1,14 @@
+{
+  "name": "31-07-24",
+  "version": "1.0.0",
+  "description": "el primer proyecto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lautaro martinez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
